@@ -25,5 +25,4 @@ This project involved developing a comprehensive analytical dashboard to track a
 - **Improved Accuracy:** Eliminated manual entry errors by 20% through direct ERP data integration.
 
 ## 🖼️ Dashboard Preview
-*(Upload your screenshot to this repo as dashboard_preview.png to see it here)*
-![Dashboard](dashboard_2.png)
+![Dashboard](asset/dashboard_2.png)
