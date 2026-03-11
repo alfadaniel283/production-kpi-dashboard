@@ -26,4 +26,4 @@ This project involved developing a comprehensive analytical dashboard to track a
 
 ## 🖼️ Dashboard Preview
 *(Upload your screenshot to this repo as dashboard_preview.png to see it here)*
-![Production Dashboard Preview](dashboard_2.png)
+![Dashboard](dashboard_2.png)
