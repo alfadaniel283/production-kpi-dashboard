@@ -46,3 +46,6 @@ The `.pbix` file and screenshots currently contain production data from West Afr
 
 ![Production report](asset/dashboard_3.png)
 ![Consumption report](asset/dashboard_2.png)
+
+
+> **⚠️ Disclaimer:** The data used in this metric is fictional and does not represent, in any form, the real data of the assumed company.
